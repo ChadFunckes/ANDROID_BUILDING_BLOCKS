@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Outdoor Depot4</string>
+    <string name="app_title">Outdoor Depot</string>
+    <string name="win1">Home</string>
+    <string name="win2">Wish List</string>
+    <string name="nofav">Not a Favorite</string>
+    <string name="fav">Favorite</string>
+    <string name="add">Add to Wish List</string>
+    <string name="remove">Remove from Wish List</string>
+    <string name="close">Close</string>
+</resources>

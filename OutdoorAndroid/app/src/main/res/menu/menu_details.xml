@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".BaseActivity">
+    <item android:id="@+id/action_close" android:title="@string/close" android:icon="@drawable/cancel"
+        android:orderInCategory="100" android:showAsAction="ifRoom|withText" />
+</menu>
