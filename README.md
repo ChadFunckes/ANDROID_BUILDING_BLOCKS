@@ -9,8 +9,7 @@ and displays a notification upon alarm reciept.  The manifest is also set up for
 on-boot reciever (BootCompletedReciever) to set alarms back up when system reboots....however this program
 does not store alarms, so this reciever is blank in this file.
 --------------
-expandable list test is just a basic expandable list example, using two custom containers I was using
-to make another projects... it's ugly but works, just for expandable list adapter reference
+expandable list test is just a basic expandable list example, using two custom containers I was using to make another projects... it's ugly but works, just for expandable list adapter reference.
 ----------
 JSONExample is how to pull JSON data ** the json data might not still exist at the example site... 
 the format for JSON data was:
